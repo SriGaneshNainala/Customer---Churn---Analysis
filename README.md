@@ -217,7 +217,7 @@ Built a professional, interactive customer churn dashboard from a **100K-custome
 
 ## 👨‍💻 Author
 
-**Raja**  
+**Ganesh**  
 **Aspiring Data Analyst**
 
 **Skills:** Microsoft Excel • SQL • Power BI • DAX • Power Query • MySQL • Data Analysis
